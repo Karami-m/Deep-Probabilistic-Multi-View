@@ -20,7 +20,7 @@ views. An empirical analysis confirms that the proposed deep
 multi-view model can discover subtle relationships between
 multiple views and recover rich representations.
 
-<img src="./_img/VAE_2view.png" width="300">
+<img src="./_img/VAE_2view.jpg" width="300">
 
 
 ## Requirements
