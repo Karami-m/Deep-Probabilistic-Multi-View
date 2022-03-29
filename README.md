@@ -49,8 +49,8 @@ For more specific training, run the following scripts inside the directory: ```.
 * **Multi-Modal YaleB (Facial Components)**:  
 ```source YaleB_multimodal.sh ```
 
-  >**Reconstruction of missing views** 
-  > <img src="./_img/MultiModal_YaleB_reconst.png" width="400">  
+  >**Reconstruction of missing views**  
+  > <img src="./_img/MultiModal_YaleB_reconst.png" width="600">  
   > *Samples of the available views, at the top, and their corresponding reconstructed views where in (b) the model extracts the 4 facial
 components based on the complete face image, and in (d) the model reconstructs the whole face and the one facial component (right eye) based
 on its 3 partial face complements (left eye+ nose+mouth)*.
