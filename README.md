@@ -55,7 +55,6 @@ For more specific training, run the following scripts inside the directory: ```.
 components based on the complete face image, and in (d) the model reconstructs the whole face and the one facial component (right eye) based
 on its 3 partial face complements (left eye+ nose+mouth)*.
 
-  ![](./_img/MultiModal_YaleB_reconst.png)
 
 ## Cite
 Please cite our paper if you use this code in your research work.
